@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm an enthusiastic data scientist and AI expert, 
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-https://www.linkedin.com/in/ammar-ali-ds/
+[![GitHub](https://img.shields.io/badge/-https://github.com/DayalAli
 
 Welcome to my GitHub profile! I'm an enthusiastic data scientist and AI expert, currently exploring machine learning, data visualization, and computer vision.
 
