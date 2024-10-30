@@ -13,7 +13,26 @@ Welcome to my GitHub profile! I'm an enthusiastic data scientist and AI expert, 
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
   
   <!-- Frameworks & Libraries -->
-  <img src="https://img.icons8.c…
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+
+Welcome to my GitHub profile! I'm an enthusiastic data scientist and AI expert, currently exploring machine learning, data visualization, and computer vision.
+
+---
+
 
 <!--
 **DayalAli/DayalAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
