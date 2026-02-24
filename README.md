@@ -1,134 +1,96 @@
-<h1 align="center">Hi 👋, I'm Ammar Ali</h1>
-
+<!-- HEADER WITH GRADIENT -->
 <p align="center">
-AI Engineer | Computer Vision Specialist | Intelligent Systems Developer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ammar%20Ali&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20Specialist%20%7C%20ML%20&%20Deep%20Learning&descAlignY=55&animation=twinkling" width="100%" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;YOLO+Specialist;Automation+System+Builder&center=true&width=600&height=45">
-</p>
+<!-- SOCIAL BADGES -->
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ali-5392/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmmarAli)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammar.ali@example.com)
+  <img src="https://komarev.com/ghpvc/?username=AmmarAli&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="AmmarAli" />
+</div>
+
+<!-- ABOUT ME + ANIMATION -->
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+### 🚀 About Me
+I'm a passionate **AI Engineer & Data Scientist** building **real-time AI systems and intelligent software**.  
+- 🔭 Currently working on **Road Accident Detection, YOLO-based AI projects, and Smart Systems**  
+- 🌱 Learning **Advanced Computer Vision, Deep Learning, and MLOps**  
+- 👯 Open to collaborating on **AI & Full Stack projects**  
+- 💡 Ask me about **Python, ML, Deep Learning, Computer Vision**  
+- ⚡ Fun fact: *I turn data into actionable insights!*  
+
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="300" height="220" style="border-radius: 15px;">
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 About Me
+### 🛠️ My Tech Arsenal
 
-💻 AI & Data Science Student at KIU | AI Trainee at NUST  
-🤖 Building **real-time AI systems, smart automation, and intelligent software solutions**  
-🎯 Passionate about **Computer Vision, Deep Learning, Machine Learning, and AI for real-world problems**  
-📊 Experienced with **full-stack development + AI projects**  
+#### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,keras&theme=dark&perline=10" />
 
----
+#### 📊 Data Science Stack
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🛠️ My Skills
+#### 💻 Web & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,html,css&theme=dark&perline=10" />
 
-### 👨‍💻 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql">
-</p>
-
-### 🤖 AI & Machine Learning
-<p align="center">
-<img src="https://img.shields.io/badge/Machine Learning-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Deep Learning-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Computer Vision-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/YOLO-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenCV-lightgrey?style=for-the-badge">
-<img src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge">
-</p>
-
-### 🌐 Web & Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express">
-</p>
-
-### 🗄 Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql">
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker">
-<img src="https://img.shields.io/badge/Roboflow-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenAI-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Playwright-purple?style=for-the-badge">
-</p>
+#### 💾 Databases & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql,vscode,git,docker,linux&theme=dark&perline=10" />
 
 ---
 
-## 📂 My Projects
+### 📂 My Projects
 
 | Project | Technology | Description |
 |--------|-----------|-------------|
-| 🚑 **Road Accident Detection & Alarm System** | YOLOv8, Python, OpenCV | Real-time accident detection + emergency alert |
-| ⚽ **Football Player Detection** | YOLO, Python | Detects players for sports analytics |
-| 🚗 **Vehicle Number Plate Detection** | YOLO, Python | Smart traffic monitoring |
-| 🌦 **Weather Prediction System** | Python, ML | Data-driven forecasting |
-| 👁 **Smart Attendance System** | C++, Face Recognition | Automates attendance tracking |
-| 📧 **Email Spam Classifier** | Python, ML | Real-time spam detection |
-| 🎟 **Online Theater Ticket Booking System** | Python, SQL | Booking automation |
-| 📚 **Library Management System** | C++, SQL | Book & student management |
-| 🏦 **Bank Management System** | C++, SQL | Account and transaction management |
-| 🛡 **YOLO Adversarial Robustness Research** | YOLO, Python | PGD & IT-FGSM evaluation |
+| 🚑 Road Accident Detection & Alarm | YOLOv8, Python, OpenCV | Real-time accident detection + emergency alert |
+| ⚽ Football Player Detection | YOLO, Python | Player detection & sports analytics |
+| 🚗 Vehicle Number Plate Detection | YOLO, Python | Smart traffic monitoring |
+| 🌦 Weather Prediction System | Python, ML | Data-driven forecasting |
+| 👁 Smart Attendance System | C++, Face Recognition | Automates attendance tracking |
+| 📧 Email Spam Classifier | Python, ML | Real-time spam detection |
+| 🎟 Online Theater Ticket Booking System | Python, SQL | Booking automation |
+| 📚 Library Management System | C++, SQL | Book & student management |
+| 🏦 Bank Management System | C++, SQL | Account & transaction management |
+| 🛡 YOLO Adversarial Robustness | YOLO, Python | PGD & IT-FGSM evaluation |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmmarAli&show_icons=true&theme=radical">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAli&theme=radical">
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmmarAli&theme=radical">
-</p>
+### 📊 Contribution Activity
+<div align="center">
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAli&theme=github-dark-blue" alt="AmmarAli" />
+</div>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmmarAli&theme=radical">
-</p>
-
----
-
-## 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AmmarAli&label=Profile%20Views&color=blue&style=for-the-badge">
-</p>
+### 📊 Contribution Graph
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmmarAli&theme=tokyo-night&area=true" alt="Activity Graph"/>
+</div>
 
 ---
 
-## 💡 Mission & Vision
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Vision-AI Powered Future-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/Mission-Real World Impact-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Goal-Smart AI Solutions-orange?style=for-the-badge">
-</p>
-
-> Building AI-powered and intelligent systems for **road safety, smart traffic, sports analytics, automation, and smarter decision-making**.
+### 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 🌍 Future Goals
-
-<p align="center">
-AI for Safer Roads 🚑 | AI for Smart Cities 🏙 | AI for Sports ⚽ | AI for Intelligent Monitoring 📡
-</p>
-
----
-
----
-
-## ☕ Setup Your AI & Dev Environment
-
+### ☕ Setup Your AI & Dev Environment
 <p align="center">
 <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -136,28 +98,29 @@ AI for Safer Roads 🚑 | AI for Smart Cities 🏙 | AI for Sports ⚽ | AI for 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-Tools-orange?style=for-the-badge&logo=ai"/>
 </p>
-
-<p align="center" >
 💻 **VS Code + AI Tools + GitHub + Python + Docker**  
 ⚡ Level up your coding experience & work in style
-</p>
 
 ---
 
-## 📫 Contact Me
+### ☕ Support My Work
+If you like my work, consider buying me a coffee!  
+<a href="https://www.buymeacoffee.com/yourname">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
 
+</div>
+
+<!-- FOOTER WAVE -->
 <p align="center">
-<a href="https://www.linkedin.com/in/ammar-ali-5392/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ammar.ali@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/AmmarAli" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
 </p>
 
----
-
-⭐ Star my repositories if you support **AI innovation and real-world solutions**!
+<!-- SNAKE ANIMATION -->
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
